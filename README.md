@@ -4,8 +4,8 @@
 
 ## Context and Justification:  
 Being active for just 60 minutes a day carries a wide variety of benefits, including improved cognitive ability and productivity, and better immune function and cardiovascular health. In order to facilitate active lifestyles, it is important that each municipality offers quality, accessible recreation facilities. My map displays two datasets, both within the city of Longueuil, Quebec:
-six broad land use categories (residential, agriculture, greenspace, industrial, commercial, unlisted) colour coded according to the map legend 
-location of municipal recreation and sporting facilities (parks, playgrounds, arenas, public pools, gymnasiums, etc.) marked by black points
+- six broad land use categories (residential, agriculture, greenspace, industrial, commercial, unlisted) colour coded according to the map legend 
+- location of municipal recreation and sporting facilities (parks, playgrounds, arenas, public pools, gymnasiums, etc.) marked by black points
 
 This map provides geographical context for the location and distribution of public recreational facilities. In order to reduce distractions, less important features such as place names and waterways were still included in order to orient the user and provide spatial context, but were given light, unobtrusive colours so that they would not interfere with the main map features (or create too much visual chaos). Roads on the other hand were given a darker, more bold colour in order to give the user a sense of relative density Completely unrelated map features such as transit routes and points of interest were removed. Based on a preliminary, visual analysis of the map, the user can determine that recreational facilities are often situated within relatively dense, residential regions, likely to improve accessibility for the greatest number of people. 
 
