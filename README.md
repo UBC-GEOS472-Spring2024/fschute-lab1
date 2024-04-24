@@ -17,4 +17,4 @@ This map was designed primarily for the general public. However, it could also b
 Reflection:      
 If I were to recreate this map, there are a couple of additional layers that I would add. The distribution analysis can be furthered with the inclusion of information on city districts (population density, average income) as they are additional factors that could impact the facility distribution. That data would have to be added as text popups or as different layers that could be toggled on/off in order to make the map less chaotic and reduce visual traffic. This increased level of interactivity could also create a more substantial, informative, and engaging map experience. 
 
-![alt text](https://github.com/fschute/fschute-web/lab1.png.png "Logo Title Text 1")
+![Screenshot](https://github.com/fschute/fschute-web/lab1.png.png)
