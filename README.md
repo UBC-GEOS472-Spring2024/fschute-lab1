@@ -1,6 +1,6 @@
-#Expploratory Lab 1: Web Cartography 
+# Exploratory Lab 1: Web Cartography 
 
-Link to Map: 
+Link to Map: https://fschute.github.io/fschute-web/lab1.html
 
 Context and Justification:  
 Being active for just 60 minutes a day carries a wide variety of benefits, including improved cognitive ability and productivity, and better immune function and cardiovascular health. In order to facilitate active lifestyles, it is important that each municipality offers quality, accessible recreation facilities. My map displays two datasets, both within the city of Longueuil, Quebec:
@@ -15,4 +15,6 @@ This map was designed primarily for the general public. However, it could also b
 
 
 Reflection:      
-If I were to recreate this map, there are a couple of additional layers that I would add. The distribution analysis can be furthered with the inclusion of information on city districts (population density, average income) as they are additional factors that could impact the facility distribution. That data would have to be added as text popups or as different layers that could be toggled on/off in order to make the map less chaotic and reduce visual traffic. This increased level of interactivity could also create a more substantial, informative, and engaging map experience.  
+If I were to recreate this map, there are a couple of additional layers that I would add. The distribution analysis can be furthered with the inclusion of information on city districts (population density, average income) as they are additional factors that could impact the facility distribution. That data would have to be added as text popups or as different layers that could be toggled on/off in order to make the map less chaotic and reduce visual traffic. This increased level of interactivity could also create a more substantial, informative, and engaging map experience. 
+
+![alt text](https://github.com/fschute/fschute-web/lab1.png.png "Logo Title Text 1")
